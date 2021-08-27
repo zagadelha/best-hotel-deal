@@ -1,0 +1,1000 @@
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;332.75;5% off your stay;-6.655;pct;2016-03-01;2016-03-15
+Hotel A;332.75;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel A;366.025;$50 off your stay 3 nights or more;-73.205;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;366.025;5% off your stay;-7.3205;pct;2016-03-01;2016-03-15
+Hotel A;366.025;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel A;402.6275;$50 off your stay 3 nights or more;-80.5255;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;402.6275;5% off your stay;-8.05255;pct;2016-03-01;2016-03-15
+Hotel A;402.6275;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel A;442.89025;$50 off your stay 3 nights or more;-88.57805;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;442.89025;5% off your stay;-8.857805;pct;2016-03-01;2016-03-15
+Hotel A;442.89025;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel A;487.179275;$50 off your stay 3 nights or more;-97.435855;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;487.179275;5% off your stay;-9.7435855;pct;2016-03-01;2016-03-15
+Hotel A;487.179275;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel A;535.8972025;$50 off your stay 3 nights or more;-107.1794405;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;535.8972025;5% off your stay;-10.71794405;pct;2016-03-01;2016-03-15
+Hotel A;535.8972025;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel A;589.48692275;$50 off your stay 3 nights or more;-117.89738455;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;589.48692275;5% off your stay;-11.789738455;pct;2016-03-01;2016-03-15
+Hotel A;589.48692275;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;300;$50 off your stay 3 nights or more;-60;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;300;5% off your stay;-6;pct;2016-03-01;2016-03-15
+Hotel B;300;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel B;330;$50 off your stay 3 nights or more;-66;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;330;5% off your stay;-6.6;pct;2016-03-01;2016-03-15
+Hotel B;330;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel B;363;$50 off your stay 3 nights or more;-72.6;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;363;5% off your stay;-7.26;pct;2016-03-01;2016-03-15
+Hotel B;363;$20 off your stay;-26.62;rebate;2016-03-07;2016-03-15
+Hotel B;399.3;$50 off your stay 3 nights or more;-79.86;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;399.3;5% off your stay;-7.986;pct;2016-03-01;2016-03-15
+Hotel B;399.3;$20 off your stay;-29.282;rebate;2016-03-07;2016-03-15
+Hotel B;439.23;$50 off your stay 3 nights or more;-87.846;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;439.23;5% off your stay;-8.7846;pct;2016-03-01;2016-03-15
+Hotel B;439.23;$20 off your stay;-32.2102;rebate;2016-03-07;2016-03-15
+Hotel B;483.153;$50 off your stay 3 nights or more;-96.6306;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;483.153;5% off your stay;-9.66306;pct;2016-03-01;2016-03-15
+Hotel B;483.153;$20 off your stay;-35.43122;rebate;2016-03-07;2016-03-15
+Hotel B;531.4683;$50 off your stay 3 nights or more;-106.29366;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;531.4683;5% off your stay;-10.629366;pct;2016-03-01;2016-03-15
+Hotel B;531.4683;$20 off your stay;-38.974342;rebate;2016-03-07;2016-03-15
+Hotel B;584.61513;$50 off your stay 3 nights or more;-116.923026;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;584.61513;5% off your stay;-11.6923026;pct;2016-03-01;2016-03-15
+Hotel B;584.61513;$20 off your stay;-42.8717762;rebate;2016-03-07;2016-03-15
+Hotel B;643.076643;$50 off your stay 3 nights or more;-128.6153286;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;643.076643;5% off your stay;-12.86153286;pct;2016-03-01;2016-03-15
+Hotel B;643.076643;$20 off your stay;-47.15895382;rebate;2016-03-07;2016-03-15
+Hotel B;707.3843073;$50 off your stay 3 nights or more;-141.47686146;rebate_3plus;2016-03-01;2016-03-31
+Hotel B;707.3843073;5% off your stay;-14.147686146;pct;2016-03-01;2016-03-15
+Hotel B;707.3843073;$20 off your stay;-51.874849202;rebate;2016-03-07;2016-03-15
+Hotel C;400;$50 off your stay 3 nights or more;-70;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;400;5% off your stay;-10;pct;2016-03-01;2016-03-15
+Hotel C;400;$20 off your stay;-25;rebate;2016-03-07;2016-03-15
+Hotel C;440;$50 off your stay 3 nights or more;-77;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;440;5% off your stay;-11;pct;2016-03-01;2016-03-15
+Hotel C;440;$20 off your stay;-27.5;rebate;2016-03-07;2016-03-15
+Hotel C;484;$50 off your stay 3 nights or more;-84.7;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;484;5% off your stay;-12.1;pct;2016-03-01;2016-03-15
+Hotel C;484;$20 off your stay;-30.25;rebate;2016-03-07;2016-03-15
+Hotel C;532.4;$50 off your stay 3 nights or more;-93.17;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;532.4;5% off your stay;-13.31;pct;2016-03-01;2016-03-15
+Hotel C;532.4;$20 off your stay;-33.275;rebate;2016-03-07;2016-03-15
+Hotel C;585.64;$50 off your stay 3 nights or more;-102.487;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;585.64;5% off your stay;-14.641;pct;2016-03-01;2016-03-15
+Hotel C;585.64;$20 off your stay;-36.6025;rebate;2016-03-07;2016-03-15
+Hotel C;644.204;$50 off your stay 3 nights or more;-112.7357;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;644.204;5% off your stay;-16.1051;pct;2016-03-01;2016-03-15
+Hotel C;644.204;$20 off your stay;-40.26275;rebate;2016-03-07;2016-03-15
+Hotel C;708.6244;$50 off your stay 3 nights or more;-124.00927;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;708.6244;5% off your stay;-17.71561;pct;2016-03-01;2016-03-15
+Hotel C;708.6244;$20 off your stay;-44.289025;rebate;2016-03-07;2016-03-15
+Hotel C;779.48684;$50 off your stay 3 nights or more;-136.410197;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;779.48684;5% off your stay;-19.487171;pct;2016-03-01;2016-03-15
+Hotel C;779.48684;$20 off your stay;-48.7179275;rebate;2016-03-07;2016-03-15
+Hotel C;857.435524;$50 off your stay 3 nights or more;-150.0512167;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;857.435524;5% off your stay;-21.4358881;pct;2016-03-01;2016-03-15
+Hotel C;857.435524;$20 off your stay;-53.58972025;rebate;2016-03-07;2016-03-15
+Hotel C;943.1790764;$50 off your stay 3 nights or more;-165.05633837;rebate_3plus;2016-03-01;2016-03-31
+Hotel C;943.1790764;5% off your stay;-23.57947691;pct;2016-03-01;2016-03-15
+Hotel C;943.1790764;$20 off your stay;-58.948692275;rebate;2016-03-07;2016-03-15
+Hotel A;250;$50 off your stay 3 nights or more;-50;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;250;5% off your stay;-5;pct;2016-03-01;2016-03-15
+Hotel A;250;$20 off your stay;-20;rebate;2016-03-07;2016-03-15
+Hotel A;275;$50 off your stay 3 nights or more;-55;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;275;5% off your stay;-5.5;pct;2016-03-01;2016-03-15
+Hotel A;275;$20 off your stay;-22;rebate;2016-03-07;2016-03-15
+Hotel A;302.5;$50 off your stay 3 nights or more;-60.5;rebate_3plus;2016-03-01;2016-03-31
+Hotel A;302.5;5% off your stay;-6.05;pct;2016-03-01;2016-03-15
+Hotel A;302.5;$20 off your stay;-24.2;rebate;2016-03-07;2016-03-15
+Hotel A;332.75;$50 off your stay 3 nights or more;-66.55;rebate_3plus;2016-03-01;2016-03-31
